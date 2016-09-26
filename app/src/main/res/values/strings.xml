@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string name="cliqueici">Clique ici!</string>
+    <string name="conteneurrouge">conteneur rouge</string>
+    <string name="conteneurgris">conteneur gris</string>
+    <string name="cinquante">50%</string>
+</resources>
